@@ -35,7 +35,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          'Hello, Sou eu Ste! ⭐',
+          'OIE BÃO',
         ),
       ),
     );
