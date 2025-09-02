@@ -2,6 +2,8 @@
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
+Criado por Stefany Garcia ⭐
+
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
